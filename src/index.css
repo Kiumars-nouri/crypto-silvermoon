@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "KalamBold";
+    src: local("KalamBold"),
+     url("./src/fonts/Kalam-Bold.ttf") format("truetype");
+    font-weight: bold;
+   }
